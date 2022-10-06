@@ -435,10 +435,6 @@ function App() {
             <Grid item md={3} xs={12} sm={6} key={i}>
               <Box className="bgLight">
                 <Box sx={{ display: "flex", justifyContent: "center" }}>
-                  {/* <Chip
-                    sx={{ width: "50%", margin: "5px" }}
-                    label={e.category}
-                  /> */}
                   <Paper
                     sx={{
                       width: "50%",
